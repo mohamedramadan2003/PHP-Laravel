@@ -14,7 +14,7 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 **📝 Task**:  
  - [📝week 0](https://forms.gle/2nRVVbbs1jgLq2kf9)
- - 
+  
  **Network Fundamentals**
  
 - 🌍 Arabic:
@@ -120,7 +120,6 @@ OR
   - [Laravel Basics (🌍Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 
 **📝 Task**:  
-
 
 ---
 
