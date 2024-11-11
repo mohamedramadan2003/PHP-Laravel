@@ -68,35 +68,39 @@ OR
 
 ---
 
-### 🎯 Week 6-10 : **Working with Databases [MySQL]**
+### 🎯 Week 6-10 : **Working with Databases [SQL]**
 - 🌍 Arabic:
-  - [Connecting MySQL in PHP (🌍Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB) (Part 2-5: Full playlist 4+ videos)
+  - [SQL (🌍Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB) 
+ 
+    OR
+
+  [SQL (🌍Arabic)](https://youtu.be/fqA2t50vXjA?si=dfPonLxv7LcSBPe6) 
 
 **📝 Task**:  
 
 ---
 
-### 🎯 Week 11 : **PHP Basics**
+### 🎯 Week 11 - 12 : **PHP Basics**
 - 🌍 Arabic:
-  - [PHP Basics (🌍Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) (Part 1: 52 videos)
+  - [PHP Basics (🌍Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+ 
+    OR
+
+  - [PHP Basics (🌍Arabic)](https://youtu.be/l66t7kBmbTM?si=sRWNZML2JtRnr_M0)  
 
 **📝 Task**:  
 
 
 ---
 
-### 🎯 Week 12 : **PHP Part 2**
-- 🌍 Arabic:
-  - [PHP Advanced (🌍Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) (Part 2: 53-105 videos)
-
-**📝 Task**:  
-
-
----
 
 ### 🎯 Week 13 : **Object-Oriented Programming (OOP) in PHP**
 - 🌍 Arabic:
   - [OOP in PHP (🌍Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+ 
+  And
+
+  - [Login  (🌍English)](https://youtu.be/BaEm2Qv14oU?si=rhhXekT08YvFJYii)
 
 **📝 Task**:  
 
