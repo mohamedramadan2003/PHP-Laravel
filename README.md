@@ -13,7 +13,7 @@
   - [How the Internet Works 🌐 (Arabic)](https://www.youtube.com/watch?v=a1jSDxrb0tw)
   - [Network Fundamentals 🌐 (Arabic)](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
 
-**📝 Task**: أكمل المهمة بعد مشاهدة الفيديوهات.
+**📝 Task**: 
 
 ---
 
@@ -24,7 +24,7 @@
   - [Alternative HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
   - [CSS Crash Course 🎨 (Arabic)](https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
 
-**📝 Task**: صمم صفحة ويب بسيطة باستخدام HTML وCSS.
+**📝 Task**: 
 
 ---
 
@@ -34,7 +34,7 @@
   - [JavaScript Course ⚙️ (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
   - [Git & GitHub Course 🧑‍💻 (Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
-**📝 Task**: أنشئ مستودعًا على GitHub وابدأ في استخدام Git في مشروعك.
+**📝 Task**: 
 
 ---
 
@@ -45,7 +45,7 @@
   - [SQL Course 🗃️ (Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E)
   - [SQL Course 🗃️ (Arabic)](https://youtu.be/fqA2t50vXjA?si=dfPonLxv7LcSBPe6)
 
-**📝 Task**: اكتب استعلامات SQL لإجراء عمليات CRUD (إنشاء، قراءة، تحديث، حذف) على قاعدة بيانات.
+**📝 Task**: 
 
 ---
 
@@ -55,7 +55,7 @@
   - [PHP Basics 🖥️ (Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
   - [PHP Basics 🖥️ (Arabic)](https://youtu.be/l66t7kBmbTM?si=sRWNZML2JtRnr_M0)
 
-**📝 Task**: بناء سكربت PHP بسيط مثل نموذج للتواصل أو آلة حاسبة.
+**📝 Task**: 
 
 ---
 
@@ -65,7 +65,7 @@
   - [OOP in PHP 🏗️ (Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
   - [Login System with OOP 🏗️ (English)](https://youtu.be/BaEm2Qv14oU?si=rhhXekT08YvFJYii)
 
-**📝 Task**: بناء نظام تسجيل دخول باستخدام البرمجة الشيئية في PHP.
+**📝 Task**: 
 
 ---
 
@@ -75,7 +75,7 @@
   - [Unit Testing with PHPUnit 🧪 (English)](https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ)
   - [PHP MVC 🧪 (Arabic)](https://www.youtube.com/watch?v=livbRg5twk8&list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 
-**📝 Task**: كتابة اختبارات وحدة لتطبيق PHP وبناء إطار عمل بسيط باستخدام MVC.
+**📝 Task**: 
 
 ---
 
@@ -84,7 +84,7 @@
 - **Resources**:
   - [Laravel Basics 🔥 (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 
-**📝 Task**: بناء تطبيق CRUD باستخدام Laravel.
+**📝 Task**: 
 
 ---
 
@@ -93,7 +93,7 @@
 - **Resources**:
   - [Laravel Project 🚀 (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
 
-**📝 Task**: تطوير تطبيق ويب كامل باستخدام Laravel (مثل مدونة، موقع تجارة إلكترونية، أو مدير مهام).
+**📝 Task**: 
 
 ---
 
