@@ -7,7 +7,7 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 ### 🎯 Week 0 : **Introduction to web**
 - 🌍 Arabic:
   - [Introduction to web programming (Arabic)](https://www.youtube.com/watch?v=TO_HOJME30M&t=1100s)
- or
+ -or
   - [How the Internet works (Arabic)](https://www.youtube.com/watch?v=a1jSDxrb0tw) 
 
 **📝 Task**:  
