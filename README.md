@@ -14,7 +14,7 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 **📝 Task**:  
  - [📝week 0](https://forms.gle/2nRVVbbs1jgLq2kf9)
----
+ - 
  **Network Fundamentals**
  
 - 🌍 Arabic:
@@ -22,6 +22,7 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 
 **📝 Task**:  
 
+---
 ### 🎯 Week 1 :
    **HTML**
    
@@ -41,7 +42,6 @@ OR
 
 **📝 Task**:  
 
-
 ---
 
 ### 🎯 Week 2 : 
@@ -53,7 +53,6 @@ OR
 
 **📝 Task**:  
 
----
 
  **Git & GitHub**
  
