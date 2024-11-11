@@ -15,8 +15,16 @@ Welcome to the PHP Backend Development roadmap! This document serves as a struct
 **📝 Task**:  
  - [📝week 0](https://forms.gle/2nRVVbbs1jgLq2kf9)
 ---
+ **Network Fundamentals**
+ 
+- 🌍 Arabic:
+  - [Network Fundamentals (🌍Arabic)](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml) 
 
-### 🎯 Week 1 : **HTML**
+**📝 Task**:  
+
+### 🎯 Week 1 :
+   **HTML**
+   
 - 🌍 Arabic:
   - [HTML Course (🌍Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
     
@@ -26,9 +34,8 @@ OR
 
 **📝 Task**:  
 
----
-
-### 🎯 Week 2 : **CSS**
+   **CSS**
+   
 - 🌍 Arabic:
   - [CSS Crash Course (🌍Arabic)](https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
 
@@ -37,7 +44,10 @@ OR
 
 ---
 
-### 🎯 Week 3 : **JavaScript**
+### 🎯 Week 2 : 
+
+**JavaScript**
+
 - 🌍 Arabic:
   - [JavaScript Course (🌍Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) (videos169 -> 188)
 
@@ -45,30 +55,18 @@ OR
 
 ---
 
-### 🎯 Week 4 : **Git & GitHub**
+ **Git & GitHub**
+ 
 - 🌍 Arabic:
   - [Git & GitHub Course (🌍Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) (Full playlist: 20 videos)
 
 **📝 Task**:  
 
-
 ---
 
-### 🎯 Week 5 : **Network Fundamentals**
-- 🌍 Arabic:
-  - [Network Fundamentals (🌍Arabic)](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml) 
-- 🌍 English:
-  - [Network Fundamentals (🌍English)](https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl)
-
+### 🎯 Week 3-5 : **Working with Databases [SQL]**
 - **SQL vs NoSQL**:
   - [SQL vs NoSQL (🌍Arabic)](https://www.youtube.com/watch?v=1Sb2wC7S5Rw&pp=ygUUc3FsIGFuZCBub3NxbCDYtNix2K0=)
-
-**📝 Task**:  
-
-
----
-
-### 🎯 Week 6-10 : **Working with Databases [SQL]**
 - 🌍 Arabic:
   - [SQL (🌍Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E&index=2&pp=iAQB) 
  
@@ -80,7 +78,7 @@ OR
 
 ---
 
-### 🎯 Week 11 - 12 : **PHP Basics**
+### 🎯 Week 6-7 : **PHP Basics**
 - 🌍 Arabic:
   - [PHP Basics (🌍Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
  
@@ -94,7 +92,7 @@ OR
 ---
 
 
-### 🎯 Week 13 : **Object-Oriented Programming (OOP) in PHP**
+### 🎯 Week 8: **Object-Oriented Programming (OOP) in PHP**
 - 🌍 Arabic:
   - [OOP in PHP (🌍Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
  
@@ -107,7 +105,7 @@ OR
 
 ---
 
-### 🎯 Week 14 : **PHP Testing & PHP MVC**
+### 🎯 Week 9 : **PHP Testing & PHP MVC**
 - 🌍 English:
   - [Unit testing with PHPUnit (🌍English)](https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ) 
 - 🌍 Arabic:
@@ -118,7 +116,7 @@ OR
 
 ---
 
-### 🎯 Week 15-End : **Laravel Basics**
+### 🎯 Week 10-End : **Laravel Basics**
 - 🌍 Arabic:
   - [Laravel Basics (🌍Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 
