@@ -85,7 +85,7 @@
 - **Topics**: تعلم أساسيات فريمورك Laravel وكيفية بناء تطبيقات باستخدامه.
 - **Resources**:
   - [Laravel Basics 🔥 (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
-    - [Laravel Basics 🔥 (Arabic)](https://youtu.be/UAbH4bkyHBI?si=Y5FXTTPf5k0riATf)
+  - [Laravel Basics 🔥 (Arabic)](https://youtu.be/UAbH4bkyHBI?si=Y5FXTTPf5k0riATf)
 
 **📝 Task**: 
 
