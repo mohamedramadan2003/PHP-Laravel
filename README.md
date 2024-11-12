@@ -33,7 +33,7 @@
 ### 🎯 Week 2: **JavaScript ⚙️ & Git/GitHub 🧑‍💻**
 - **Topics**: تعلم أساسيات JavaScript والتحكم في النسخ باستخدام Git.
 - **Resources**:
-  - [JavaScript Course ⚙️ (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+  - [JavaScript Course ⚙️ (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) [169 -> End ]
   - [Git & GitHub Course 🧑‍💻 (Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 **📝 Task**: 
@@ -85,6 +85,7 @@
 - **Topics**: تعلم أساسيات فريمورك Laravel وكيفية بناء تطبيقات باستخدامه.
 - **Resources**:
   - [Laravel Basics 🔥 (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
+    - [Laravel Basics 🔥 (Arabic)](https://youtu.be/UAbH4bkyHBI?si=Y5FXTTPf5k0riATf)
 
 **📝 Task**: 
 
@@ -94,6 +95,8 @@
 - **Topics**: تطبيق كل ما تعلمته لبناء مشروع كامل باستخدام Laravel.
 - **Resources**:
   - [Laravel Project 🚀 (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
+  - [Laravel Project 🚀 (Arabic)](https://youtu.be/Mky8vng1ymk?si=Bslj8zvvxjPbf6jt)
+  - [Laravel Project 🚀 (Arabic)](https://youtu.be/F9hC6VCeY3c?si=MsdtMCQ0iYnC3-k7)
 
 **📝 Task**: 
 
