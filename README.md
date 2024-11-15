@@ -24,7 +24,7 @@
 - **Topics**: تعلم HTML (هيكل الصفحات) وCSS (تصميم الصفحات وتنسيقها).
 - **Resources**:
   - [HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) 
-  - [Alternative HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
+  - [HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
   - [CSS Crash Course 🎨 (Arabic)](https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
 
 **📝 Task**: 
@@ -97,9 +97,9 @@
 ### 🚀 Final Project : **Laravel Project**
 - **Topics**: تطبيق كل ما تعلمته لبناء مشروع كامل باستخدام Laravel.
 - **Resources**:
-  - [Laravel Project 🚀 (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
-  - [Laravel Project 🚀 (Arabic)](https://youtu.be/Mky8vng1ymk?si=Bslj8zvvxjPbf6jt)
-  - [Laravel Project 🚀 (Arabic)](https://youtu.be/F9hC6VCeY3c?si=MsdtMCQ0iYnC3-k7)
+  - [Laravel Project 1🚀 (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
+  - [Laravel Project 2🚀 (Arabic)](https://youtu.be/Mky8vng1ymk?si=Bslj8zvvxjPbf6jt)
+  - [Laravel Project 3🚀 (Arabic)](https://youtu.be/F9hC6VCeY3c?si=MsdtMCQ0iYnC3-k7)
 
 **📝 Task**: 
 
