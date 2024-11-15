@@ -126,6 +126,15 @@
 **📝 Task**: 
 
 ---
+### 🎯 Week  : ** design patterns 🔥**
+- **Topics**: باستخدام كود نظيف Laravel وكيفية بناء تطبيقات باستخدامه.
+- **Resources**:
+  - [design patterns 🔥 (Arabic)](https://youtu.be/hYas1gMp2nM?si=sB2MIMankJ59pJh9)
+  
+**📝 Task**: 
+
+---
+
 Happy coding! 🚀
 
 
