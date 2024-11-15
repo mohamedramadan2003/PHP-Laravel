@@ -127,7 +127,7 @@
 
 ---
 
-### 🎯 Week  : ** design patterns 🔥**
+### 🎯 Week  : **Design Pattern 🔥**
 - **Topics**: (Design Patterns) في البرمجة وكيفية تطبيقها باستخدام Laravel.
 - **Resources**:
   - [design patterns 🔥 (Arabic)](https://youtu.be/hYas1gMp2nM?si=sB2MIMankJ59pJh9)
