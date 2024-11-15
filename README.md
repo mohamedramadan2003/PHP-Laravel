@@ -27,7 +27,9 @@
   - [CSS Crash Course 🎨 (Arabic)](https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
 
 **📝 Task**: 
+
 [Week 1 Task - أكمل المهمة هنا](https://forms.gle/H3SLzzxsB4kiB5UW7)  
+
 ---
 
 ### 🎯 Week 2: **JavaScript ⚙️ & Git/GitHub 🧑‍💻**
