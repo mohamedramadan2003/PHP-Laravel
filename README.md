@@ -116,6 +116,15 @@
 
 ---
 
+### 🎯 Week  : **Laravel Clean Code 🔥**
+- **Topics**: باستخدام كود نظيف Laravel وكيفية بناء تطبيقات باستخدامه.
+- **Resources**:
+  - [Laravel Clean Code 🔥 (English)](https://www.youtube.com/live/THrqUvVLecM?si=6458V85JCIO-BgKa)
+  
+  
+**📝 Task**: 
+
+---
 Happy coding! 🚀
 
 
