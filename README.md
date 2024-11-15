@@ -12,6 +12,7 @@
   - [Introduction to Web Programming 🌐 (Arabic)](https://www.youtube.com/watch?v=TO_HOJME30M&t=1100s)
   - [How the Internet Works 🌐 (Arabic)](https://www.youtube.com/watch?v=a1jSDxrb0tw)
   - [Network Fundamentals 🌐 (Arabic)](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
+  - [Introduction to Web HTTP & MVC 🌐 (Arabic)](https://youtu.be/ToHfYbxg3ms?si=PGYwrehKHscYqsqG)
 
 **📝 Task**: 
 
