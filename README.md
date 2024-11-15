@@ -108,7 +108,8 @@
 ### 🎯 Week  : **Laravel advanced 🔥**
 - **Topics**: تعلم مرحلة متقدمة من فريمورك Laravel وكيفية بناء تطبيقات باستخدامه.
 - **Resources**:
-  - [Laravel advanced 🔥 (Arabic)](https://youtu.be/F-PgasVGHuM?si=EniRisZgQsVcj40U)
+  - [Laravel advanced 1 🔥 (Arabic)](https://youtu.be/F-PgasVGHuM?si=EniRisZgQsVcj40U)
+  - [Laravel advanced 2 🔥 (Arabic)](https://youtu.be/7i55C4oa4B4?si=ITq64sEqaikCRo9H)
   
 
 **📝 Task**: 
