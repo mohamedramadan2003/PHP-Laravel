@@ -69,6 +69,7 @@
 - **Resources**:
   - [OOP in PHP 🏗️ (Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
   - [Login System with OOP 🏗️ (English)](https://youtu.be/BaEm2Qv14oU?si=rhhXekT08YvFJYii)
+  - [Project PHP & Mysql 🏗️ (Arabic)](https://youtu.be/7TGgcnhQWLc?si=vvUXLX_1ZCRbDodP) 
 
 **📝 Task**: 
 
