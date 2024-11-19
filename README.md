@@ -51,7 +51,7 @@
   - [SQL Course 🗃️ (Arabic)](https://youtu.be/fqA2t50vXjA?si=dfPonLxv7LcSBPe6)
     
 **📚 Book**:
-  -[SQL Course 📚](https://drive.google.com/drive/folders/1qEybZBhP-da-vlmBMJVYHqLdnvkLUmjX?usp=sharing)
+  - [SQL Course 📚](https://drive.google.com/drive/folders/1qEybZBhP-da-vlmBMJVYHqLdnvkLUmjX?usp=sharing)
   
 **📝 Task**: 
 
