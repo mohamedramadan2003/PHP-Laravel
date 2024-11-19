@@ -49,9 +49,13 @@
   - [SQL vs NoSQL 📊 (Arabic)](https://www.youtube.com/watch?v=1Sb2wC7S5Rw&pp=ygUUc3FsIGFuZCBub3NxbCDYtNix2K0=)
   - [SQL Course 🗃️ (Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E)
   - [SQL Course 🗃️ (Arabic)](https://youtu.be/fqA2t50vXjA?si=dfPonLxv7LcSBPe6)
-
+    
+**📚 Book**:
+  -[SQL Course 📚](https://drive.google.com/drive/folders/1qEybZBhP-da-vlmBMJVYHqLdnvkLUmjX?usp=sharing)
+  
 **📝 Task**: 
 
+[Week 3 & 4 & 5 Task - أكمل المهمة هنا] (https://drive.google.com/drive/folders/1YuYOhospFMh3IxFWa2gJX9Dc-_nUFP1r?usp=sharing)
 ---
 
 ### 🎯 Week 6-7 : **PHP Basics 🖥️**
