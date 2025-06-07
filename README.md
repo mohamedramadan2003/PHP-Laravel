@@ -84,7 +84,7 @@
 - **Topics**: تعلم كيفية إجراء اختبارات وحدة باستخدام PHPUnit وفهم معماريات MVC.
 - **Resources**:
   - [Unit Testing with PHPUnit 🧪 (English)](https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ)
-  - [PHP MVC 🧪 (Arabic)](https://www.youtube.com/watch?v=livbRg5twk8&list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+  - [PHP MVC 🧪 (Arabic)](https://youtu.be/YDst6XzPQyo?si=ROFKzrq39Og-Uvjr)
 
 **📝 Task**: 
 
