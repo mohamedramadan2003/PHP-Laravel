@@ -1,146 +1,158 @@
-# PHP Backend Development Roadmap
+# 🧠 PHP Backend Development Roadmap
 
-مرحبًا بك في **خريطة الطريق لتطوير الـ PHP Backend**! هذا الدليل يُقدم لك خطة دراسية منظمة للتعلم والتطور في مجال تطوير تطبيقات الويب باستخدام PHP، بدءًا من المفاهيم الأساسية وصولاً إلى فريمورك Laravel المتقدم.
-
----
-
-## 📚 Roadmap Overview
-
-### 🎯 Week 0 : **Introduction to Web Development 🌐**
-- **Topics**: أساسيات البرمجة على الويب، فهم كيفية عمل الإنترنت.
-- **Resources**:
-  - [Introduction to Web Programming 🌐 (Arabic)](https://www.youtube.com/watch?v=TO_HOJME30M&t=1100s)
-  - [How the Internet Works 🌐 (Arabic)](https://www.youtube.com/watch?v=a1jSDxrb0tw)
-  - [Network Fundamentals 🌐 (Arabic)](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
-  - [Introduction to Web HTTP & MVC 🌐 (Arabic)](https://youtu.be/ToHfYbxg3ms?si=PGYwrehKHscYqsqG)
-
-**📝 Task**: 
-
-[Week 0 Task - أكمل المهمة هنا](https://forms.gle/2nRVVbbs1jgLq2kf9) 
+مرحبًا بك في **خريطة الطريق لتطوير الـ PHP Backend**!  
+هذا الدليل يُقدم خطة دراسية منظمة ومكثفة لتصبح مطور ويب محترف باستخدام PHP، من الصفر وحتى فريمورك Laravel المتقدم.
 
 ---
 
-### 🎯 Week 1 : **HTML 📝 & CSS 🎨**
-- **Topics**: تعلم HTML (هيكل الصفحات) وCSS (تصميم الصفحات وتنسيقها).
-- **Resources**:
-  - [HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) 
-  - [HTML Course 📝 (Arabic)](https://www.youtube.com/watch?v=Dv39fDYei9A&list=PLknwEmKsW8OuN04Odt2sJqt4aAnkp-iYA)
-  - [CSS Crash Course 🎨 (Arabic)](https://www.youtube.com/watch?v=Z-5QVutAEW4&pp=ygUQY3NzIGNyYXNoIGNvdXJzZQ==)
+## 🗺️ Roadmap Overview
 
-**📝 Task**: 
-
-[Week 1 Task - أكمل المهمة هنا](https://forms.gle/H3SLzzxsB4kiB5UW7)  
-
----
-
-### 🎯 Week 2 : **JavaScript ⚙️ & Git/GitHub 🧑‍💻**
-- **Topics**: تعلم أساسيات JavaScript والتحكم في النسخ باستخدام Git.
-- **Resources**:
-  - [JavaScript Course ⚙️ (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) [169 -> End ]
-  - [Git & GitHub Course 🧑‍💻 (Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-
-**📝 Task**: 
+| الأسبوع | المواضيع                            | المهام ✔️ |
+|--------|------------------------------------|----------|
+| Week 0 | 🌐 مقدمة في تطوير الويب             | [اضغط هنا](https://forms.gle/2nRVVbbs1jgLq2kf9) |
+| Week 1 | 📝 HTML و 🎨 CSS                     | [اضغط هنا](https://forms.gle/H3SLzzxsB4kiB5UW7) |
+| Week 2 | ⚙️ JavaScript و 🧑‍💻 Git/GitHub        | Coming Soon |
+| Week 3-5 | 🗃️ قواعد البيانات (SQL/NoSQL)      | [اضغط هنا](https://docs.google.com/forms/d/e/1FAIpQLSfniWU35k05opoCQPnmAgzfKpSSLc340L2-7VSlMUvINYd0gw/viewform) |
+| Week 6-7 | 🖥️ PHP Basics                     | Coming Soon |
+| Week 8 | 🏗️ OOP في PHP                       | Coming Soon |
+| Week 9 | 🧪 PHP Testing + MVC                | Coming Soon |
+| Week 10+ | 🔥 Laravel Basics                  | Coming Soon |
+| Final Project | 🚀 مشروع Laravel متكامل       | Soon |
+| Laravel Advanced | 🎯 Laravel متقدم           | Soon |
+| Clean Code | 🧼 Laravel Clean Code            | Soon |
+| Design Patterns | 🧩 التصميم الهيكلي           | Soon |
 
 ---
 
-### 🎯 Week 3-5 : **SQL & Databases 🗃️**
-- **Topics**: تعلم أساسيات قواعد البيانات العلائقية وكتابة استعلامات SQL. فهم الفرق بين SQL و NoSQL.
-- **Resources**:
-  - [SQL vs NoSQL 📊 (Arabic)](https://www.youtube.com/watch?v=1Sb2wC7S5Rw&pp=ygUUc3FsIGFuZCBub3NxbCDYtNix2K0=)
-  - [SQL Course 🗃️ (Arabic)](https://www.youtube.com/watch?v=0vFrllim8UY&list=PLesfn4TAj57V5vvJKvYxofwY2hbyjk9-E)
-  - [SQL Course 🗃️ (Arabic)](https://youtu.be/fqA2t50vXjA?si=dfPonLxv7LcSBPe6)
-    
-**📚 Book**:
-  - [SQL Course 📚](https://drive.google.com/drive/folders/1qEybZBhP-da-vlmBMJVYHqLdnvkLUmjX?usp=sharing)
-  
-**📝 Task**: 
+## 📦 Week 0: Introduction to Web Development
 
-[Week 3 & 4  Task - أكمل المهمة هنا](https://docs.google.com/forms/d/e/1FAIpQLSfniWU35k05opoCQPnmAgzfKpSSLc340L2-7VSlMUvINYd0gw/viewform?usp=sf_link)
+> 💡 **فهم كيف يعمل الإنترنت، البروتوكولات، السيرفرات، وطرق نقل البيانات**
+
+### 🎥 مصادر تعليمية:
+- [كيف يعمل الإنترنت (عربي)](https://www.youtube.com/watch?v=a1jSDxrb0tw)
+- [أساسيات البرمجة للويب](https://www.youtube.com/watch?v=TO_HOJME30M&t=1100s)
+- [مقدمة عن HTTP و MVC](https://youtu.be/ToHfYbxg3ms?si=PGYwrehKHscYqsqG)
+
+📝 **المهمة**:  
+[Week 0 - Google Form](https://forms.gle/2nRVVbbs1jgLq2kf9)
 
 ---
 
-### 🎯 Week 6-7 : **PHP Basics 🖥️**
-- **Topics**: تعلم الأساسيات في PHP: المتغيرات، الدوال، الحلقات، والمصفوفات.
-- **Resources**:
-  - [PHP Basics 🖥️ (Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
-  - [PHP Basics 🖥️ (Arabic)](https://youtu.be/l66t7kBmbTM?si=sRWNZML2JtRnr_M0)
+## 🎨 Week 1: HTML & CSS
 
-**📝 Task**: 
+> 💡 **الهيكل العام للصفحات وتصميمها**
 
----
+### 🎥 مصادر تعليمية:
+- [HTML - الزيرو (عربي)](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+- [CSS Crash Course](https://www.youtube.com/watch?v=Z-5QVutAEW4)
 
-### 🎯 Week 8 : **Object-Oriented Programming (OOP) in PHP 🏗️**
-- **Topics**: تعلم مفاهيم البرمجة الشيئية في PHP مثل الكائنات، الفئات، الوراثة، والبوليمورفية.
-- **Resources**:
-  - [OOP in PHP 🏗️ (Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-  - [Login System with OOP 🏗️ (English)](https://youtu.be/BaEm2Qv14oU?si=rhhXekT08YvFJYii)
-  - [Project PHP & Mysql 🏗️ (Arabic)](https://youtu.be/7TGgcnhQWLc?si=vvUXLX_1ZCRbDodP) 
-
-**📝 Task**: 
+📝 **المهمة**:  
+[Week 1 - Google Form](https://forms.gle/H3SLzzxsB4kiB5UW7)
 
 ---
 
-### 🎯 Week 9 : **PHP Testing & PHP MVC 🧪**
-- **Topics**: تعلم كيفية إجراء اختبارات وحدة باستخدام PHPUnit وفهم معماريات MVC.
-- **Resources**:
-  - [Unit Testing with PHPUnit 🧪 (English)](https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ)
-  - [PHP MVC 🧪 (Arabic)](https://youtu.be/YDst6XzPQyo?si=ROFKzrq39Og-Uvjr)
+## ⚙️ Week 2: JavaScript & Git
 
-**📝 Task**: 
+> 💡 **تفاعل مع الصفحة وتحكم بالإصدار البرمجي**
 
----
+### 🎥 مصادر تعليمية:
+- [JavaScript Basics (Arabic)](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- [Git & GitHub (Arabic)](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
-### 🎯 Week 10-End : **Laravel Basics 🔥**
-- **Topics**: تعلم أساسيات فريمورك Laravel وكيفية بناء تطبيقات باستخدامه.
-- **Resources**:
-  - [Laravel Basics 🔥 (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4&list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
-  - [Laravel Basics 🔥 (Arabic)](https://youtu.be/UAbH4bkyHBI?si=Y5FXTTPf5k0riATf)
-
-**📝 Task**: 
+📝 **المهمة**:  
+🚧 Coming Soon
 
 ---
 
-### 🚀 Final Project : **Laravel Project**
-- **Topics**: تطبيق كل ما تعلمته لبناء مشروع كامل باستخدام Laravel.
-- **Resources**:
-  - [Laravel Project 1🚀 (Arabic)](https://www.youtube.com/watch?v=QStpeLp25A4&list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A)
-  - [Laravel Project 2🚀 (Arabic)](https://youtu.be/Mky8vng1ymk?si=Bslj8zvvxjPbf6jt)
-  - [Laravel Project 3🚀 (Arabic)](https://youtu.be/F9hC6VCeY3c?si=MsdtMCQ0iYnC3-k7)
+## 🗃️ Week 3-5: SQL & Databases
 
-**📝 Task**: 
+> 💡 **إدارة البيانات باستخدام SQL - مقارنة SQL vs NoSQL**
 
----
+### 🎥 مصادر:
+- [SQL vs NoSQL](https://www.youtube.com/watch?v=1Sb2wC7S5Rw)
+- [SQL Course 1](https://www.youtube.com/watch?v=0vFrllim8UY)
+- [SQL Course 2](https://youtu.be/fqA2t50vXjA)
 
-### 🎯 Week  : **Laravel advanced 🔥**
-- **Topics**: تعلم مرحلة متقدمة من فريمورك Laravel وكيفية بناء تطبيقات باستخدامه.
-- **Resources**:
-  - [Laravel advanced 1 🔥 (Arabic)](https://youtu.be/F-PgasVGHuM?si=EniRisZgQsVcj40U)
-  - [Laravel advanced 2 🔥 (Arabic)](https://youtu.be/7i55C4oa4B4?si=ITq64sEqaikCRo9H)
-  
+📘 **كتاب**:  
+- [تحميل كتاب SQL](https://drive.google.com/drive/folders/1qEybZBhP-da-vlmBMJVYHqLdnvkLUmjX?usp=sharing)
 
-**📝 Task**: 
+📝 **المهمة**:  
+[SQL Task Form](https://docs.google.com/forms/d/e/1FAIpQLSfniWU35k05opoCQPnmAgzfKpSSLc340L2-7VSlMUvINYd0gw/viewform)
 
 ---
 
-### 🎯 Week  : **Laravel Clean Code 🔥**
-- **Topics**: باستخدام كود نظيف Laravel وكيفية بناء تطبيقات باستخدامه.
-- **Resources**:
-  - [Laravel Clean Code 🔥 (English)](https://www.youtube.com/live/THrqUvVLecM?si=6458V85JCIO-BgKa)
-  
-  
-**📝 Task**: 
+## 🖥️ Week 6-7: PHP Basics
+
+> 💡 **المتغيرات، الشروط، الحلقات، الدوال، المصفوفات**
+
+### 🎥 مصادر:
+- [PHP Basics - الزيرو (Arabic)](https://www.youtube.com/watch?v=xcg9qq6SZ0w)
+
+📝 **المهمة**: Coming soon
 
 ---
 
-### 🎯 Week  : **Design Pattern 🔥**
-- **Topics**: (Design Patterns) في البرمجة وكيفية تطبيقها باستخدام Laravel.
-- **Resources**:
-  - [design patterns 🔥 (Arabic)](https://youtu.be/hYas1gMp2nM?si=sB2MIMankJ59pJh9)
-  
-**📝 Task**: 
+## 🏗️ Week 8: OOP in PHP
+
+> 💡 **الكائنات، الوراثة، التجريد، الواجهات، polymorphism**
+
+### 🎥 مصادر:
+- [OOP in PHP - الزيرو (Arabic)](https://www.youtube.com/watch?v=w6JqPsVP7Ps&list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- [Login System (English)](https://youtu.be/BaEm2Qv14oU)
+- [مشروع كامل (Arabic)](https://youtu.be/7TGgcnhQWLc)
 
 ---
 
-Happy coding! 🚀
+## 🧪 Week 9: Testing + MVC
+
+> 💡 **الاختبار التلقائي + المعمارية الصحيحة**
+
+### 🎥 مصادر:
+- [PHPUnit Testing (English)](https://www.youtube.com/watch?v=k9ak_rv9X0Y)
+- [PHP MVC (Arabic)](https://youtu.be/YDst6XzPQyo)
+
+---
+
+## 🔥 Week 10+: Laravel Basics
+
+> 💡 **بيئة العمل، Routes، Controllers، Models، Views، Migrations**
+
+### 🎥 مصادر:
+- [Laravel Basics 1 (Arabic)](https://www.youtube.com/watch?v=HHj6YU43eV4)
+- [Laravel Basics 2 (Arabic)](https://youtu.be/UAbH4bkyHBI)
+
+---
+
+## 🚀 Final Laravel Projects
+
+> 💡 **تطبيق عملي لمشروع متكامل باستخدام Laravel**
+
+### 🎥 مشاريع:
+- [مشروع 1](https://www.youtube.com/watch?v=QStpeLp25A4)
+- [مشروع 2](https://youtu.be/Mky8vng1ymk)
+- [مشروع 3](https://youtu.be/F9hC6VCeY3c)
+
+---
+
+## 🔥 Advanced Laravel Topics
+
+### 🎯 Laravel Advanced
+- [Advanced Laravel (Arabic)](https://youtu.be/F-PgasVGHuM)
+- [More Advanced Topics](https://youtu.be/7i55C4oa4B4)
+
+### 🧼 Laravel Clean Code
+- [Clean Code Live](https://www.youtube.com/live/THrqUvVLecM)
+
+### 🧩 Design Patterns
+- [Design Patterns (Arabic)](https://youtu.be/hYas1gMp2nM)
+
+---
+
+### 🎉 جاهز تبدأ؟  
+
+ابدأ من الأسبوع 0 واتبع الخريطة خطوة بخطوة. أي استفسار؟ تواصل معايا على [GitHub](https://github.com/mohamedramadan2003) أو [WhatsApp](https://wa.me/201064234874) ✌️
+
+> _“The best way to learn to code is to build, break, and build again.”_
+
 
 
